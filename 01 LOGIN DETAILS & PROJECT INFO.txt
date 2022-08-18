@@ -1,0 +1,12 @@
+
+**Database Name: Attendance And Result Management System**
+
+**Developed by Abhishek Sinh Jethwa , Om tewade , Ayaz Khoja**
+
+
+**Admin Login Details**
+
+User name  : admin
+Password: admin@123
+
+
